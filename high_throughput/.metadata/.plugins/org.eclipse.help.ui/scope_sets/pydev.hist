@@ -1,0 +1,5 @@
+#Mon Sep 11 14:15:01 CEST 2017
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=pydev
